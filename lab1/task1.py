@@ -1,6 +1,5 @@
 from urllib.error import HTTPError
 
-import requests
 import os
 from urllib.request import urlopen
 from lxml import etree
