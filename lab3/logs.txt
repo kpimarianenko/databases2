@@ -1,0 +1,4 @@
+INFO:root:[2021-04-27 19:01:30.934691]: User Richard Everett sent spam message: 'Building own form run.'
+INFO:root:[2021-04-27 19:01:30.935667]: User Phillip Yates sent spam message: 'Skill green design sister past sometimes.'
+INFO:root:[2021-04-27 19:01:32.943765]: User Richard Everett sent spam message: 'Man still language final stop stuff our.'
+INFO:root:[2021-04-27 19:01:32.944777]: User Phillip Daniel sent spam message: 'Worker again modern inside drive great.'
